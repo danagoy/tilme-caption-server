@@ -1,0 +1,107 @@
+{
+  "celebrity": {
+    "search": "celebrity interview English captions"
+  },
+  "literature": {
+    "search": "TED Ed literature books authors English subtitles"
+  },
+  "philosophy": {
+    "search": "philosophy English animated explained subtitles"
+  },
+  "meme": {
+    "search": "funny meme explained English with subtitles"
+  },
+  "movie": {
+    "search": "official movie scenes English subtitles"
+  },
+  "series": {
+    "search": "TV sitcom official clips English captions"
+  },
+  "interview": {
+    "search": "interview English with subtitles"
+  },
+  "travel": {
+    "search": "travel vlog English speaking subtitles"
+  },
+  "daily": {
+    "search": "daily English conversations shadowing"
+  },
+  "podcast": {
+    "search": "English podcast conversation subtitles"
+  },
+  "news": {
+    "search": "English news with captions"
+  },
+  "history": {
+    "search": "history documentary English subtitles"
+  },
+  "science": {
+    "search": "TED Ed science English subtitles"
+  },
+  "technology": {
+    "search": "AI technology explained English subtitles"
+  },
+  "psychology": {
+    "search": "psychology explained English subtitles"
+  },
+  "culture": {
+    "search": "culture explained English subtitles"
+  },
+  "art": {
+    "search": "art museum explained English subtitles"
+  },
+  "documentary": {
+    "search": "documentary English subtitles"
+  },
+  "comedy": {
+    "search": "English standup comedy clean subtitles"
+  },
+  "education": {
+    "search": "TED Ed education English subtitles"
+  },
+  "business": {
+    "search": "business English interview subtitles"
+  },
+  "career": {
+    "search": "job interview workplace English subtitles"
+  },
+  "music": {
+    "search": "musicians explain music English interview"
+  },
+  "sports": {
+    "search": "athlete interview English subtitles"
+  },
+  "food": {
+    "search": "cooking vlog English captions"
+  },
+  "fashion": {
+    "search": "fashion designer interview English"
+  },
+  "nature": {
+    "search": "BBC Earth narrated nature documentary"
+  },
+  "gaming": {
+    "search": "gaming interview English subtitles"
+  },
+  "speeches": {
+    "search": "TED talk English subtitles motivation"
+  },
+  "stories": {
+    "search": "English short stories narrated with subtitles"
+  },
+  "animation": {
+    "search": "animated English stories with captions"
+  },
+  "health": {
+    "search": "health explained English subtitles"
+  },
+  "mystery": {
+    "search": "mystery explained English subtitles"
+  },
+  "relationships": {
+    "search": "relationships English conversation subtitles"
+  },
+  "english": {
+    "search": "VOA Learning English lessons subtitles"
+  }
+}
